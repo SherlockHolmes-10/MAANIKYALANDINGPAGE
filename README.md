@@ -1,2 +1,1 @@
-# ThinkCrypto-21.github.io
-ThinkCrypto Landing Page
+maanikya-navy.vercel.app
